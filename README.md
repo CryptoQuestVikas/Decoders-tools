@@ -50,7 +50,7 @@ python3 Decoders-v3.py
 
 Choice: 
 ```
-# Screenshot
+# Screenshots
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
