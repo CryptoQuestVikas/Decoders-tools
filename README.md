@@ -1,8 +1,8 @@
 # Decoders-tools
 
 # For which platform is it ?
-> Windows
-> MacOs
+> Windows </br>
+> MacOs </br>
 > Linux
 
 # Requirements
