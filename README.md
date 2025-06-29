@@ -2,7 +2,7 @@
 
 # For which platform is it ?
 > Windows
-> Mac Os
+> MacOs
 > Linux
 
 # Requirements
