@@ -1,5 +1,10 @@
 # Decoders-tools
 
+# For which platform is it ?
+> Windows
+> Mac Os
+> Linux
+
 # Requirements
 
 ```
